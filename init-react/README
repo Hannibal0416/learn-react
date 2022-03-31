@@ -26,7 +26,8 @@ npm install style-loader css-loader sass-loader --save-dev
 npm install mini-css-extract-plugin --save-dev
 
 #Webpack-dev-server
-
 npm install webpack-dev-server --save-dev
 
+#Redux
+npm install --save redux react-redux --legacy-peer-deps
 
