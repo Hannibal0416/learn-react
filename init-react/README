@@ -24,7 +24,6 @@ npm install mini-css-extract-plugin --save-dev
 #Webpack-dev-server
 npm install webpack-dev-server --save-dev
 
-#prop-types
-npm install --save prop-types
-
+#Redux
+npm install --save redux react-redux --legacy-peer-deps
 
